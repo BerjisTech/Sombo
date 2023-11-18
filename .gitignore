@@ -1,2 +1,5 @@
 # Ignore everyfolder
-Content
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Assets
+Content/Blueprints
