@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Sombo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\game_dev\Unreal\Mbogi\Intermediate\Build\Win64\x64\MbogiEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\game_dev\Unreal\Mbogi\Plugins\Sombo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sombo\Sombo.cpp.obj"
+"E:\game_dev\Unreal\Mbogi\Plugins\Sombo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sombo\Default.rc2.res"
+/OUT:"E:\game_dev\Unreal\Mbogi\Plugins\Sombo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sombo\UnrealEditor-Sombo.lib"

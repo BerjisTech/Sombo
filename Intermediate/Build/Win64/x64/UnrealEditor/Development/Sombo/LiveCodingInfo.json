@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Sombo.cpp.obj": [
+			"LocationManager.gen.cpp.obj",
+			"Sombo.init.gen.cpp.obj",
+			"LocationManager.cpp.obj",
+			"Sombo.cpp.obj"
+		]
+	}
+}

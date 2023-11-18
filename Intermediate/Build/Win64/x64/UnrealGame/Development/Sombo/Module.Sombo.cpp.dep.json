@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\sombo\\module.sombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\game_dev\\unreal\\mbogi\\intermediate\\build\\win64\\x64\\mbogi\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\sombo\\definitions.sombo.h",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\unrealgame\\inc\\sombo\\uht\\locationmanager.gen.cpp",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\public\\locationmanager.h",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\unrealgame\\inc\\sombo\\uht\\locationmanager.generated.h",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\unrealgame\\inc\\sombo\\uht\\sombo.init.gen.cpp",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\private\\locationmanager.cpp",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\private\\sombo.cpp",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\public\\sombo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

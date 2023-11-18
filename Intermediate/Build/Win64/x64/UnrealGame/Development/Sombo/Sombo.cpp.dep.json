@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\private\\sombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\game_dev\\unreal\\mbogi\\intermediate\\build\\win64\\x64\\mbogi\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\sombo\\definitions.sombo.h",
+            "e:\\game_dev\\unreal\\mbogi\\plugins\\sombo\\source\\sombo\\public\\sombo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
