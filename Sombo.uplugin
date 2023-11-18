@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Sombo",
+	"Description": "Game basics from interactions, vehicles, inputs,  mission management, game abilities etc",
+	"Category": "Other",
+	"CreatedBy": "Lord Sombo I",
+	"CreatedByURL": "https://berjis.tech",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Sombo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
